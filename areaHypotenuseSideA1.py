@@ -1,4 +1,4 @@
-                 # Name: Orion Assefaw , Student Number: 201530497 , COMP517 Assignment 1                 # 
+                 # Name: Orion Assefaw , COMP517 Assignment 1                 # 
 
 # mainMenu()- Gives User 4 options to choose from 
 # Takes user input(string) by prompting user to type in their option
